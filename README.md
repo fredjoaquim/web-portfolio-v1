@@ -1,28 +1,18 @@
-# 💼 Portfólio 1 — Fred Joaquim dos Santos
+# Portfolio v1
 
-Portfólio pessoal desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, projetos e informações de contato. Recentemente, foi refatorado para receber uma paleta de cores mais suave, uso de variáveis com :root e melhorias significativas de responsividade.
+## 🚀 Live Demo
+[🔗 Acessar Projeto](https://fredjoaquim.github.io/web-portfolio-v1/)
 
-## 🚀 Demonstração
-🔗 [Acesse o portfólio](https://fredjoaquim.github.io/Portfolio-1-Fred-Joaquim-dos-Santos/)
+## 📌 Sobre
+Primeira versão do portfólio pessoal, representando o início da jornada profissional.
 
-## 🧠 Funcionalidades
-- Exibição de informações pessoais e profissionais  
-- Links diretos para redes sociais  
-- Design responsivo e limpo
-- Uso de variáveis CSS (:root)
-- Ajustes de responsividade com @media para melhor experiência no mobile
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
 
-## 🛠️ Tecnologias utilizadas
-- HTML5  
-- CSS3  
+## 🎯 Funcionalidades
+- Apresentação básica
+- Estrutura inicial
 
-## 👨‍💻 Autor
-**Fred Joaquim dos Santos**  
-📧 [fredjoaquimprogramador@gmail.com](mailto:fredjoaquimprogramador@gmail.com)  
-🐙 [GitHub](https://github.com/fredjoaquim)  
-💼 [LinkedIn](https://linkedin.com/in/fredjoaquim)
-
----
-
-## 📝 Licença
-Código aberto para fins educacionais.
+## 📷 Preview
+![Preview](./assets/preview.png)

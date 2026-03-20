@@ -13,6 +13,3 @@ Primeira versão do portfólio pessoal, representando o início da jornada profi
 ## 🎯 Funcionalidades
 - Apresentação básica
 - Estrutura inicial
-
-## 📷 Preview
-![Preview](./assets/preview.png)
